@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1575882617 source:c:\chandu\cpp_preparation\udemy\cpp\udemy\1.cpp
+	<iostream>
+
+1576073673 source:c:\chandu\cpp_preparation\udemy\cpp\udemy\main.cpp
+	<iostream>
+	"main.h"
+
+1576073661 c:\chandu\cpp_preparation\udemy\cpp\udemy\main.h
+
+1575886036 source:c:\chandu\cpp_preparation\udemy\cpp\udemy\3.cpp
+	<iostream>
+
+1575908058 source:c:\chandu\cpp_preparation\udemy\cpp\udemy\4.cpp
+	<iostream>
+	<vector>
+
+1575974648 source:c:\chandu\cpp_preparation\udemy\cpp\udemy\5.cpp
+	<iostream>
+
+1576073787 source:c:\chandu\cpp_preparation\udemy\cpp\udemy\6.cpp
+	<iostream>
+	<string>
+

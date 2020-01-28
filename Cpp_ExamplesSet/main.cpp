@@ -13,8 +13,10 @@ int main()
 	//ClassExample2();
 	//constructorex1();
 	//constructorex2();
-
-	referenceEx();
+	//referenceEx();
+	//classreferenceexample();
+	//overloadingexample1();
+	staticexample1();
 
 	return 0;
-}
+  }

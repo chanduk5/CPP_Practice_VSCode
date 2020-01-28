@@ -11,3 +11,6 @@ void ClassExample2(void);
 void constructorex1(void);
 int constructorex2(void);
 int referenceEx(void);
+int classreferenceexample(void);
+int overloadingexample1(void);
+int staticexample1(void);

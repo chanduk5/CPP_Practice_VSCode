@@ -144,6 +144,10 @@
     <ClCompile Include="Source11.cpp" />
     <ClCompile Include="Source12.cpp" />
     <ClCompile Include="Source13.cpp" />
+    <ClCompile Include="Source14.cpp" />
+    <ClCompile Include="Source15.cpp" />
+    <ClCompile Include="Source16.cpp" />
+    <ClCompile Include="Source17.cpp" />
     <ClCompile Include="Source2.cpp" />
     <ClCompile Include="Source3.cpp" />
     <ClCompile Include="Source4.cpp" />

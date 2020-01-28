@@ -16,7 +16,11 @@ int main()
 	//referenceEx();
 	//classreferenceexample();
 	//overloadingexample1();
-	staticexample1();
+	//staticexample1();
+	//virtualExample2();
+	//virtualExample3();
+	//templateExample1();
+	classexample3();
 
 	return 0;
-  }
+ }

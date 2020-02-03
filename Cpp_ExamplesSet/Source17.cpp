@@ -61,7 +61,7 @@ int classexample3(void)
 	String s2, s3;
 	const char* name = "Kurapati";
 	s2(name);
-	s3 = s1 + s2;
+	s3 = s1 + s2; //string concatination
 	cout << s3;
 	return 0;
 }

@@ -69,6 +69,15 @@
     <ClCompile Include="Source17.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source18.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source19.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source20.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">

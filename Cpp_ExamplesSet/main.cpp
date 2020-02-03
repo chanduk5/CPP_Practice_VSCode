@@ -20,7 +20,11 @@ int main()
 	//virtualExample2();
 	//virtualExample3();
 	//templateExample1();
-	classexample3();
+	//classexample3();
+	//InheritenceEx2();
+	//classexample4();
+
+	classexample5();
 
 	return 0;
  }

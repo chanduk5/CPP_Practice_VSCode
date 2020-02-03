@@ -18,3 +18,6 @@ int virtualExample2(void);
 int virtualExample3(void);
 int templateExample1(void);
 int classexample3(void);
+int InheritenceEx2(void);
+int classexample4(void);
+int classexample5(void);
